@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project>
+<node name="machine3" description="votre description" tags="slaveserver"  hostname="192.168.8.103" osArch="amd64" osFamily="unix" osName="Linux" osVersion="centos7"  username="vagrant"/>
+</project>
+

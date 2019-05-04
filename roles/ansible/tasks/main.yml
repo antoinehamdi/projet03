@@ -1,0 +1,4 @@
+---
+# tasks file for ansible
+- name: Install rundeck
+  include: install_rundeck.yml

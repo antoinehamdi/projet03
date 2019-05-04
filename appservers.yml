@@ -1,0 +1,6 @@
+---
+- name: appservers installation
+  hosts: appservers
+  become: yes
+  roles:
+    - ansible

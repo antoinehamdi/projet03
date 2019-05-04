@@ -1,0 +1,12 @@
+[webservers]
+192.168.8.101
+
+[appservers]
+192.168.8.102
+
+[all:children]
+webservers
+
+[all:vars]
+ansible_user = vagrant
+#ansible_password = vagrant
